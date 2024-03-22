@@ -1,0 +1,20 @@
+@import "colors";
+
+.OurTeam {
+  background-color: $second;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  > h1 {
+    font: 800 "Roboto";
+    margin: 20px 20px 20px 20px;
+  }
+  > img {
+    margin: 0;
+    height: 500px;
+    border-radius: 40px;
+    margin: 0 45px 40px 20px;
+  }
+}
