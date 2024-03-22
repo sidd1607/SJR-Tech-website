@@ -12,7 +12,6 @@ import "./Styles/Header.scss";
 import "./Styles/Home.scss";
 import "./Styles/Footer.scss";
 import "./Styles/ContactUs.scss";
-import "./Styles/Services.scss";
 import "./Styles/OurTeam.scss";
 import "./Styles/mediaquery.scss";
 
