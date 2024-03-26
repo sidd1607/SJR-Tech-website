@@ -6,6 +6,7 @@ const ContactUs = () => {
   if (state.succeeded) {
     return <p>Thanks for joining!</p>;
   }
+  //this is update
   return (
     <div className="ContactUs">
       <main>
